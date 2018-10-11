@@ -1,0 +1,5 @@
+E:\DesignPattern\ProxyPatternApply\bin\Debug\ProxyPatternApply.exe.config
+E:\DesignPattern\ProxyPatternApply\bin\Debug\ProxyPatternApply.exe
+E:\DesignPattern\ProxyPatternApply\bin\Debug\ProxyPatternApply.pdb
+E:\DesignPattern\ProxyPatternApply\obj\Debug\ProxyPatternApply.exe
+E:\DesignPattern\ProxyPatternApply\obj\Debug\ProxyPatternApply.pdb
