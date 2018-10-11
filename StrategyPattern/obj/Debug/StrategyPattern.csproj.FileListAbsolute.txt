@@ -1,0 +1,5 @@
+E:\DesignPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+E:\DesignPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+E:\DesignPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+E:\DesignPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+E:\DesignPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb

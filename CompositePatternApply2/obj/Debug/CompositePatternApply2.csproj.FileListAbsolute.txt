@@ -1,0 +1,5 @@
+E:\DesignPattern\CompositePatternApply2\bin\Debug\CompositePatternApply2.exe.config
+E:\DesignPattern\CompositePatternApply2\bin\Debug\CompositePatternApply2.exe
+E:\DesignPattern\CompositePatternApply2\bin\Debug\CompositePatternApply2.pdb
+E:\DesignPattern\CompositePatternApply2\obj\Debug\CompositePatternApply2.exe
+E:\DesignPattern\CompositePatternApply2\obj\Debug\CompositePatternApply2.pdb

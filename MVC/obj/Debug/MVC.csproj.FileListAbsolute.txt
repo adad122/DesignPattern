@@ -1,0 +1,5 @@
+E:\DesignPattern\MVC\bin\Debug\MVC.exe.config
+E:\DesignPattern\MVC\bin\Debug\MVC.exe
+E:\DesignPattern\MVC\bin\Debug\MVC.pdb
+E:\DesignPattern\MVC\obj\Debug\MVC.exe
+E:\DesignPattern\MVC\obj\Debug\MVC.pdb

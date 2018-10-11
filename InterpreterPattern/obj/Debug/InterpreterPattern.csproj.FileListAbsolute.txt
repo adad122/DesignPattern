@@ -1,0 +1,5 @@
+E:\DesignPattern\InterpreterPattern\bin\Debug\InterpreterPattern.exe.config
+E:\DesignPattern\InterpreterPattern\bin\Debug\InterpreterPattern.exe
+E:\DesignPattern\InterpreterPattern\bin\Debug\InterpreterPattern.pdb
+E:\DesignPattern\InterpreterPattern\obj\Debug\InterpreterPattern.exe
+E:\DesignPattern\InterpreterPattern\obj\Debug\InterpreterPattern.pdb

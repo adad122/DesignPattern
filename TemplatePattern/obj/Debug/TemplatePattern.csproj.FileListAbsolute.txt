@@ -1,0 +1,6 @@
+E:\DesignPattern\TemplatePattern\bin\Debug\TemplatePattern.exe.config
+E:\DesignPattern\TemplatePattern\bin\Debug\TemplatePattern.exe
+E:\DesignPattern\TemplatePattern\bin\Debug\TemplatePattern.pdb
+E:\DesignPattern\TemplatePattern\obj\Debug\TemplatePattern.csprojResolveAssemblyReference.cache
+E:\DesignPattern\TemplatePattern\obj\Debug\TemplatePattern.exe
+E:\DesignPattern\TemplatePattern\obj\Debug\TemplatePattern.pdb

@@ -1,0 +1,204 @@
+﻿#region 建造者模式
+//建造者模式（Builder Pattern）使用多个简单的对象一步一步构建成一个复杂的对象。这种类型的设计模式属于创建型模式，它提供了一种创建对象的最佳方式。
+
+//一个 Builder 类会一步一步构造最终的对象。该 Builder 类是独立于其他对象的。
+
+//介绍
+//意图：将一个复杂的构建与其表示相分离，使得同样的构建过程可以创建不同的表示。
+
+//主要解决：主要解决在软件系统中，有时候面临着"一个复杂对象"的创建工作，其通常由各个部分的子对象用一定的算法构成；由于需求的变化，这个复杂对象的各个部分经常面临着剧烈的变化，但是将它们组合在一起的算法却相对稳定。
+
+//何时使用：一些基本部件不会变，而其组合经常变化的时候。
+
+//如何解决：将变与不变分离开。
+
+//关键代码：建造者：创建和提供实例，导演：管理建造出来的实例的依赖关系。
+
+//应用实例： 1、去肯德基，汉堡、可乐、薯条、炸鸡翅等是不变的，而其组合是经常变化的，生成出所谓的"套餐"。 2、JAVA 中的 StringBuilder。
+
+//优点： 1、建造者独立，易扩展。 2、便于控制细节风险。
+
+//缺点： 1、产品必须有共同点，范围有限制。 2、如内部变化复杂，会有很多的建造类。
+
+//使用场景： 1、需要生成的对象具有复杂的内部结构。 2、需要生成的对象内部属性本身相互依赖。
+
+//注意事项：与工厂模式的区别是：建造者模式更加关注与零件装配的顺序。
+#endregion
+
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using System.Security.Cryptography.X509Certificates;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BuilderPattern
+{
+    public interface IPacking
+    {
+        String Pack();
+    }
+    public interface IItem
+    {
+        String Name();
+        IPacking Packing();
+        float Price();
+    }
+
+    public class Wrapper : IPacking
+    {
+        public String Pack()
+        {
+            return "Wrapper";
+        }
+    }
+
+    public class Bottle : IPacking
+    {
+        public String Pack()
+        {
+            return "Bottle";
+        }
+    }
+
+    public abstract class Burger : IItem
+    {
+        public IPacking Packing()
+        {
+            return new Wrapper();
+        }
+
+        public abstract float Price();
+        public abstract String Name();
+    }
+
+    public abstract class ColdDrink : IItem
+    {
+        public IPacking Packing()
+        {
+            return new Bottle();
+        }
+
+        public abstract float Price();
+        public abstract String Name();
+    }
+
+    public class VegBurger : Burger
+    {
+        public override string Name()
+        {
+            return "Veg Burger";
+        }
+
+        public override float Price()
+        {
+            return 25.0f;
+        }
+    }
+
+    public class ChickenBurger : Burger
+    {
+        public override string Name()
+        {
+            return "Chicken Burger";
+        }
+
+        public override float Price()
+        {
+            return 50.0f;
+        }
+    }
+
+    public class Coke : ColdDrink
+    {
+        public override string Name()
+        {
+            return "Coke";
+        }
+
+        public override float Price()
+        {
+            return 20.0f;
+        }
+    }
+
+    public class Pepsi : ColdDrink
+    {
+        public override string Name()
+        {
+            return "Pepsi";
+        }
+
+        public override float Price()
+        {
+            return 20.0f;
+        }
+    }
+
+    public class Meal
+    {
+        private List<IItem> _items = new List<IItem>();
+
+        public void AddItem(IItem item)
+        {
+            _items.Add(item);
+        }
+
+        public float GetCost()
+        {
+            float cost = 0.0f;
+            for (int i = 0; i < _items.Count; i++)
+            {
+                cost += _items[i].Price();
+            }
+            return cost;
+        }
+
+        public void ShowItems()
+        {
+            foreach (var item in _items)
+            {
+                Console.Write("Item: " + item.Name());
+                Console.Write(", Packing: " + item.Packing().Pack());
+                Console.WriteLine(", Price: " + item.Price());
+            }
+        }
+    }
+
+    public class MealFactory
+    {
+        public Meal PrepareVegMeal()
+        {
+            Meal meal = new Meal();
+            meal.AddItem(new VegBurger());
+            meal.AddItem(new Coke());
+            return meal;
+        }
+
+        public Meal PrepareNonVegMeal()
+        {
+            Meal meal = new Meal();
+            meal.AddItem(new ChickenBurger());
+            meal.AddItem(new Pepsi());
+            return meal;
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            MealFactory mealFactory = new MealFactory();
+            Meal vegMeal = mealFactory.PrepareVegMeal();
+            Console.WriteLine("Veg Meal");
+            vegMeal.ShowItems();
+            Console.WriteLine("Cost: " + vegMeal.GetCost());
+
+            Meal nonVegMeal = mealFactory.PrepareNonVegMeal();
+            Console.WriteLine("Non Veg Meal");
+            nonVegMeal.ShowItems();
+            Console.WriteLine("Cost: " + nonVegMeal.GetCost());
+        }
+    }
+}

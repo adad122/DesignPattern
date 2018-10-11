@@ -1,0 +1,6 @@
+E:\DesignPattern\FilterPattern\bin\Debug\FilterPattern.exe.config
+E:\DesignPattern\FilterPattern\bin\Debug\FilterPattern.exe
+E:\DesignPattern\FilterPattern\bin\Debug\FilterPattern.pdb
+E:\DesignPattern\FilterPattern\obj\Debug\FilterPattern.csprojResolveAssemblyReference.cache
+E:\DesignPattern\FilterPattern\obj\Debug\FilterPattern.exe
+E:\DesignPattern\FilterPattern\obj\Debug\FilterPattern.pdb

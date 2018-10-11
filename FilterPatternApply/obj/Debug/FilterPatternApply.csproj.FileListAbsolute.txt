@@ -1,0 +1,5 @@
+E:\DesignPattern\FilterPatternApply\bin\Debug\FilterPatternApply.exe.config
+E:\DesignPattern\FilterPatternApply\bin\Debug\FilterPatternApply.exe
+E:\DesignPattern\FilterPatternApply\bin\Debug\FilterPatternApply.pdb
+E:\DesignPattern\FilterPatternApply\obj\Debug\FilterPatternApply.exe
+E:\DesignPattern\FilterPatternApply\obj\Debug\FilterPatternApply.pdb

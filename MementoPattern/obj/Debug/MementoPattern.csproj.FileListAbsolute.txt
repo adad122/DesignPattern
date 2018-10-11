@@ -1,0 +1,5 @@
+E:\DesignPattern\MementoPattern\bin\Debug\MementoPattern.exe.config
+E:\DesignPattern\MementoPattern\bin\Debug\MementoPattern.exe
+E:\DesignPattern\MementoPattern\bin\Debug\MementoPattern.pdb
+E:\DesignPattern\MementoPattern\obj\Debug\MementoPattern.exe
+E:\DesignPattern\MementoPattern\obj\Debug\MementoPattern.pdb
