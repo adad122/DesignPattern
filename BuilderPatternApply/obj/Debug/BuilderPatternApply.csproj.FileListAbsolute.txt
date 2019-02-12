@@ -4,3 +4,9 @@ E:\DesignPattern\BuilderPatternApply\bin\Debug\BuilderPatternApply.pdb
 E:\DesignPattern\BuilderPatternApply\obj\Debug\BuilderPatternApply.csprojResolveAssemblyReference.cache
 E:\DesignPattern\BuilderPatternApply\obj\Debug\BuilderPatternApply.exe
 E:\DesignPattern\BuilderPatternApply\obj\Debug\BuilderPatternApply.pdb
+E:\git\DesignPattern\BuilderPatternApply\bin\Debug\BuilderPatternApply.exe.config
+E:\git\DesignPattern\BuilderPatternApply\bin\Debug\BuilderPatternApply.exe
+E:\git\DesignPattern\BuilderPatternApply\bin\Debug\BuilderPatternApply.pdb
+E:\git\DesignPattern\BuilderPatternApply\obj\Debug\BuilderPatternApply.csprojResolveAssemblyReference.cache
+E:\git\DesignPattern\BuilderPatternApply\obj\Debug\BuilderPatternApply.exe
+E:\git\DesignPattern\BuilderPatternApply\obj\Debug\BuilderPatternApply.pdb

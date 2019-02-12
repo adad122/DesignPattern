@@ -4,3 +4,9 @@ E:\DesignPattern\CompositePattern\bin\Debug\CompositePattern.pdb
 E:\DesignPattern\CompositePattern\obj\Debug\CompositePattern.csprojResolveAssemblyReference.cache
 E:\DesignPattern\CompositePattern\obj\Debug\CompositePattern.exe
 E:\DesignPattern\CompositePattern\obj\Debug\CompositePattern.pdb
+E:\git\DesignPattern\CompositePattern\bin\Debug\CompositePattern.exe.config
+E:\git\DesignPattern\CompositePattern\bin\Debug\CompositePattern.exe
+E:\git\DesignPattern\CompositePattern\bin\Debug\CompositePattern.pdb
+E:\git\DesignPattern\CompositePattern\obj\Debug\CompositePattern.csprojResolveAssemblyReference.cache
+E:\git\DesignPattern\CompositePattern\obj\Debug\CompositePattern.exe
+E:\git\DesignPattern\CompositePattern\obj\Debug\CompositePattern.pdb

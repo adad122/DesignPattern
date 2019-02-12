@@ -4,3 +4,9 @@ E:\DesignPattern\CommandPattern\bin\Debug\CommandPattern.pdb
 E:\DesignPattern\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache
 E:\DesignPattern\CommandPattern\obj\Debug\CommandPattern.exe
 E:\DesignPattern\CommandPattern\obj\Debug\CommandPattern.pdb
+E:\git\DesignPattern\CommandPattern\bin\Debug\CommandPattern.exe.config
+E:\git\DesignPattern\CommandPattern\bin\Debug\CommandPattern.exe
+E:\git\DesignPattern\CommandPattern\bin\Debug\CommandPattern.pdb
+E:\git\DesignPattern\CommandPattern\obj\Debug\CommandPattern.csprojResolveAssemblyReference.cache
+E:\git\DesignPattern\CommandPattern\obj\Debug\CommandPattern.exe
+E:\git\DesignPattern\CommandPattern\obj\Debug\CommandPattern.pdb

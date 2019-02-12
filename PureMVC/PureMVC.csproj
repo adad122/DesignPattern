@@ -41,7 +41,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="App\Command\LoginCommand.cs" />
+    <Compile Include="App\Command\StartUpCommand.cs" />
+    <Compile Include="App\Const.cs" />
+    <Compile Include="App\Data\UserData.cs" />
+    <Compile Include="App\Mediator\LoginViewMediator.cs" />
+    <Compile Include="App\Proxy\LoginViewProxy.cs" />
+    <Compile Include="App\UI\LoginView.cs" />
     <Compile Include="Core\Controller.cs" />
+    <Compile Include="Core\Model.cs" />
     <Compile Include="Core\View.cs" />
     <Compile Include="Interfaces\ICommand.cs" />
     <Compile Include="Interfaces\IController.cs" />

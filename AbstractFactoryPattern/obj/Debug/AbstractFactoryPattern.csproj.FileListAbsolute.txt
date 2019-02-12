@@ -4,3 +4,9 @@ E:\DesignPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
 E:\DesignPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
 E:\DesignPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb
 E:\DesignPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojResolveAssemblyReference.cache
+E:\git\DesignPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
+E:\git\DesignPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
+E:\git\DesignPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
+E:\git\DesignPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csprojResolveAssemblyReference.cache
+E:\git\DesignPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
+E:\git\DesignPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb

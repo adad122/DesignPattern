@@ -6,7 +6,7 @@
     public interface INotification
     {
         /// <summary>
-        /// 通知名称
+        /// 通知索引
         /// </summary>
         string Name { get; }
 

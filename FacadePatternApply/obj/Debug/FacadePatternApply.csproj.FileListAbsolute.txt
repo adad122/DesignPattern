@@ -4,3 +4,9 @@ E:\DesignPattern\FacadePatternApply\bin\Debug\FacadePatternApply.pdb
 E:\DesignPattern\FacadePatternApply\obj\Debug\FacadePatternApply.csprojResolveAssemblyReference.cache
 E:\DesignPattern\FacadePatternApply\obj\Debug\FacadePatternApply.exe
 E:\DesignPattern\FacadePatternApply\obj\Debug\FacadePatternApply.pdb
+E:\git\DesignPattern\FacadePatternApply\bin\Debug\FacadePatternApply.exe.config
+E:\git\DesignPattern\FacadePatternApply\bin\Debug\FacadePatternApply.exe
+E:\git\DesignPattern\FacadePatternApply\bin\Debug\FacadePatternApply.pdb
+E:\git\DesignPattern\FacadePatternApply\obj\Debug\FacadePatternApply.csprojResolveAssemblyReference.cache
+E:\git\DesignPattern\FacadePatternApply\obj\Debug\FacadePatternApply.exe
+E:\git\DesignPattern\FacadePatternApply\obj\Debug\FacadePatternApply.pdb

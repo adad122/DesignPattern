@@ -34,21 +34,21 @@
         /// <summary>
         /// 获取中介者实体
         /// </summary>
-        /// <param name="mediatorName">中介者特征名</param>
+        /// <param name="mediatorName">中介者索引</param>
         /// <returns>中介者对象</returns>
         IMediator RetrieveMediator(string mediatorName);
 
         /// <summary>
         /// 移除中介者对象
         /// </summary>
-        /// <param name="mediatorName">中介者特征名</param>
+        /// <param name="mediatorName">中介者索引</param>
         /// <returns>中介者对象</returns>
         IMediator RemoveMediator(string mediatorName);
 
         /// <summary>
         /// 是否存在中介者
         /// </summary>
-        /// <param name="mediatorName">中介者特征名</param>
+        /// <param name="mediatorName">中介者索引</param>
         /// <returns>查询结果</returns>
         bool HasMediator(string mediatorName);
     }

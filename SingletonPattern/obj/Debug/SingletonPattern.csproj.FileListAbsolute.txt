@@ -4,3 +4,9 @@ E:\DesignPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
 E:\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
 E:\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb
 E:\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
+E:\git\DesignPattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+E:\git\DesignPattern\SingletonPattern\bin\Debug\SingletonPattern.exe
+E:\git\DesignPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
+E:\git\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.csprojResolveAssemblyReference.cache
+E:\git\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+E:\git\DesignPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb

@@ -4,3 +4,9 @@ E:\DesignPattern\InterpreterPatternApply\bin\Debug\InterpreterPatternApply.pdb
 E:\DesignPattern\InterpreterPatternApply\obj\Debug\InterpreterPatternApply.csprojResolveAssemblyReference.cache
 E:\DesignPattern\InterpreterPatternApply\obj\Debug\InterpreterPatternApply.exe
 E:\DesignPattern\InterpreterPatternApply\obj\Debug\InterpreterPatternApply.pdb
+E:\git\DesignPattern\InterpreterPatternApply\bin\Debug\InterpreterPatternApply.exe.config
+E:\git\DesignPattern\InterpreterPatternApply\bin\Debug\InterpreterPatternApply.exe
+E:\git\DesignPattern\InterpreterPatternApply\bin\Debug\InterpreterPatternApply.pdb
+E:\git\DesignPattern\InterpreterPatternApply\obj\Debug\InterpreterPatternApply.csprojResolveAssemblyReference.cache
+E:\git\DesignPattern\InterpreterPatternApply\obj\Debug\InterpreterPatternApply.exe
+E:\git\DesignPattern\InterpreterPatternApply\obj\Debug\InterpreterPatternApply.pdb

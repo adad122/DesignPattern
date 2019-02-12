@@ -6,7 +6,7 @@
     public interface IProxy : INotifier
     {
         /// <summary>
-        /// 代理名字
+        /// 代理索引
         /// </summary>
         string ProxyName { get; }
 

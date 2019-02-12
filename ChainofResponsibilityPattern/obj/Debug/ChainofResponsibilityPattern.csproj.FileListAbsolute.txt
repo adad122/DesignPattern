@@ -4,3 +4,9 @@ E:\DesignPattern\ChainofResponsibilityPattern\bin\Debug\ChainofResponsibilityPat
 E:\DesignPattern\ChainofResponsibilityPattern\obj\Debug\ChainofResponsibilityPattern.csprojResolveAssemblyReference.cache
 E:\DesignPattern\ChainofResponsibilityPattern\obj\Debug\ChainofResponsibilityPattern.exe
 E:\DesignPattern\ChainofResponsibilityPattern\obj\Debug\ChainofResponsibilityPattern.pdb
+E:\git\DesignPattern\ChainofResponsibilityPattern\bin\Debug\ChainofResponsibilityPattern.exe.config
+E:\git\DesignPattern\ChainofResponsibilityPattern\bin\Debug\ChainofResponsibilityPattern.exe
+E:\git\DesignPattern\ChainofResponsibilityPattern\bin\Debug\ChainofResponsibilityPattern.pdb
+E:\git\DesignPattern\ChainofResponsibilityPattern\obj\Debug\ChainofResponsibilityPattern.csprojResolveAssemblyReference.cache
+E:\git\DesignPattern\ChainofResponsibilityPattern\obj\Debug\ChainofResponsibilityPattern.exe
+E:\git\DesignPattern\ChainofResponsibilityPattern\obj\Debug\ChainofResponsibilityPattern.pdb

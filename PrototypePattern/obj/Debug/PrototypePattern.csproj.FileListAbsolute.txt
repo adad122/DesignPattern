@@ -4,3 +4,9 @@ E:\DesignPattern\PrototypePattern\bin\Debug\PrototypePattern.pdb
 E:\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.csprojResolveAssemblyReference.cache
 E:\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.exe
 E:\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.pdb
+E:\git\DesignPattern\PrototypePattern\bin\Debug\PrototypePattern.exe.config
+E:\git\DesignPattern\PrototypePattern\bin\Debug\PrototypePattern.exe
+E:\git\DesignPattern\PrototypePattern\bin\Debug\PrototypePattern.pdb
+E:\git\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.csprojResolveAssemblyReference.cache
+E:\git\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.exe
+E:\git\DesignPattern\PrototypePattern\obj\Debug\PrototypePattern.pdb

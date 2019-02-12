@@ -4,3 +4,9 @@ E:\DesignPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
 E:\DesignPattern\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
 E:\DesignPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
 E:\DesignPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb
+E:\git\DesignPattern\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+E:\git\DesignPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
+E:\git\DesignPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
+E:\git\DesignPattern\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
+E:\git\DesignPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
+E:\git\DesignPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb

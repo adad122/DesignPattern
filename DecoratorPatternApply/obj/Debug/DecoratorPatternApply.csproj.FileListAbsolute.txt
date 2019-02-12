@@ -4,3 +4,9 @@ E:\DesignPattern\DecoratorPatternApply\bin\Debug\DecoratorPatternApply.pdb
 E:\DesignPattern\DecoratorPatternApply\obj\Debug\DecoratorPatternApply.csprojResolveAssemblyReference.cache
 E:\DesignPattern\DecoratorPatternApply\obj\Debug\DecoratorPatternApply.exe
 E:\DesignPattern\DecoratorPatternApply\obj\Debug\DecoratorPatternApply.pdb
+E:\git\DesignPattern\DecoratorPatternApply\bin\Debug\DecoratorPatternApply.exe.config
+E:\git\DesignPattern\DecoratorPatternApply\bin\Debug\DecoratorPatternApply.exe
+E:\git\DesignPattern\DecoratorPatternApply\bin\Debug\DecoratorPatternApply.pdb
+E:\git\DesignPattern\DecoratorPatternApply\obj\Debug\DecoratorPatternApply.csprojResolveAssemblyReference.cache
+E:\git\DesignPattern\DecoratorPatternApply\obj\Debug\DecoratorPatternApply.exe
+E:\git\DesignPattern\DecoratorPatternApply\obj\Debug\DecoratorPatternApply.pdb

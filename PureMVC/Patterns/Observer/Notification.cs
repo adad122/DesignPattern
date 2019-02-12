@@ -33,7 +33,7 @@ namespace PureMVC.Patterns.Observer
         }
 
         /// <summary>
-        /// 通知名字
+        /// 通知索引
         /// </summary>
         public string Name { get; protected set; }
 

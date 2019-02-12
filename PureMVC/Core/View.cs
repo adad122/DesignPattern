@@ -5,7 +5,10 @@ using PureMVC.Patterns.Singleton;
 
 namespace PureMVC.Core
 {
-    public class View : SingletonEx<IController>, IView
+    /// <summary>
+    /// View对象实体，用于关联和管理Mediator和Observer
+    /// </summary>
+    public class View : SingletonEx<View>, IView
     {
         /// <summary>
         /// 中介者集合
@@ -121,7 +124,7 @@ namespace PureMVC.Core
         /// <summary>
         /// 获取中介者实体
         /// </summary>
-        /// <param name="mediatorName">中介者特征名</param>
+        /// <param name="mediatorName">中介者索引</param>
         /// <returns>中介者对象</returns>
         public IMediator RetrieveMediator(string mediatorName)
         {
@@ -136,7 +139,7 @@ namespace PureMVC.Core
         /// <summary>
         /// 移除中介者对象
         /// </summary>
-        /// <param name="mediatorName">中介者特征名</param>
+        /// <param name="mediatorName">中介者索引</param>
         /// <returns>中介者对象</returns>
         public IMediator RemoveMediator(string mediatorName)
         {
@@ -159,7 +162,7 @@ namespace PureMVC.Core
         /// <summary>
         /// 是否存在中介者
         /// </summary>
-        /// <param name="mediatorName">中介者特征名</param>
+        /// <param name="mediatorName">中介者索引</param>
         /// <returns>查询结果</returns>
         public bool HasMediator(string mediatorName)
         {

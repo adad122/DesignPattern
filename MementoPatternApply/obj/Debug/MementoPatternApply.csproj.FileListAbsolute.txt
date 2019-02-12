@@ -4,3 +4,9 @@ E:\DesignPattern\MementoPatternApply\bin\Debug\MementoPatternApply.pdb
 E:\DesignPattern\MementoPatternApply\obj\Debug\MementoPatternApply.csprojResolveAssemblyReference.cache
 E:\DesignPattern\MementoPatternApply\obj\Debug\MementoPatternApply.exe
 E:\DesignPattern\MementoPatternApply\obj\Debug\MementoPatternApply.pdb
+E:\git\DesignPattern\MementoPatternApply\bin\Debug\MementoPatternApply.exe.config
+E:\git\DesignPattern\MementoPatternApply\bin\Debug\MementoPatternApply.exe
+E:\git\DesignPattern\MementoPatternApply\bin\Debug\MementoPatternApply.pdb
+E:\git\DesignPattern\MementoPatternApply\obj\Debug\MementoPatternApply.csprojResolveAssemblyReference.cache
+E:\git\DesignPattern\MementoPatternApply\obj\Debug\MementoPatternApply.exe
+E:\git\DesignPattern\MementoPatternApply\obj\Debug\MementoPatternApply.pdb

@@ -4,3 +4,9 @@ E:\DesignPattern\ProxyPattern\bin\Debug\ProxyPattern.pdb
 E:\DesignPattern\ProxyPattern\obj\Debug\ProxyPattern.csprojResolveAssemblyReference.cache
 E:\DesignPattern\ProxyPattern\obj\Debug\ProxyPattern.exe
 E:\DesignPattern\ProxyPattern\obj\Debug\ProxyPattern.pdb
+E:\git\DesignPattern\ProxyPattern\bin\Debug\ProxyPattern.exe.config
+E:\git\DesignPattern\ProxyPattern\bin\Debug\ProxyPattern.exe
+E:\git\DesignPattern\ProxyPattern\bin\Debug\ProxyPattern.pdb
+E:\git\DesignPattern\ProxyPattern\obj\Debug\ProxyPattern.csprojResolveAssemblyReference.cache
+E:\git\DesignPattern\ProxyPattern\obj\Debug\ProxyPattern.exe
+E:\git\DesignPattern\ProxyPattern\obj\Debug\ProxyPattern.pdb

@@ -4,3 +4,9 @@ E:\DesignPattern\StatePattern\bin\Debug\StatePattern.pdb
 E:\DesignPattern\StatePattern\obj\Debug\StatePattern.csprojResolveAssemblyReference.cache
 E:\DesignPattern\StatePattern\obj\Debug\StatePattern.exe
 E:\DesignPattern\StatePattern\obj\Debug\StatePattern.pdb
+E:\git\DesignPattern\StatePattern\bin\Debug\StatePattern.exe.config
+E:\git\DesignPattern\StatePattern\bin\Debug\StatePattern.exe
+E:\git\DesignPattern\StatePattern\bin\Debug\StatePattern.pdb
+E:\git\DesignPattern\StatePattern\obj\Debug\StatePattern.csprojResolveAssemblyReference.cache
+E:\git\DesignPattern\StatePattern\obj\Debug\StatePattern.exe
+E:\git\DesignPattern\StatePattern\obj\Debug\StatePattern.pdb

@@ -9,7 +9,7 @@ namespace PureMVC.Patterns.Observer
     {
         public void SendNotification(string notificationName, object body = null, string type = null)
         {
-            throw new System.NotImplementedException();
+            Facade.Facade.instance.SendNotification(notificationName, body, type);
         }
     }
 }

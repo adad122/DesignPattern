@@ -3,3 +3,8 @@ E:\DesignPattern\FilterPatternApply2\bin\Debug\FilterPatternApply2.exe
 E:\DesignPattern\FilterPatternApply2\bin\Debug\FilterPatternApply2.pdb
 E:\DesignPattern\FilterPatternApply2\obj\Debug\FilterPatternApply2.exe
 E:\DesignPattern\FilterPatternApply2\obj\Debug\FilterPatternApply2.pdb
+E:\git\DesignPattern\FilterPatternApply2\bin\Debug\FilterPatternApply2.exe.config
+E:\git\DesignPattern\FilterPatternApply2\bin\Debug\FilterPatternApply2.exe
+E:\git\DesignPattern\FilterPatternApply2\bin\Debug\FilterPatternApply2.pdb
+E:\git\DesignPattern\FilterPatternApply2\obj\Debug\FilterPatternApply2.exe
+E:\git\DesignPattern\FilterPatternApply2\obj\Debug\FilterPatternApply2.pdb

@@ -3,3 +3,8 @@ E:\DesignPattern\MediatorPattern\bin\Debug\MediatorPattern.exe
 E:\DesignPattern\MediatorPattern\bin\Debug\MediatorPattern.pdb
 E:\DesignPattern\MediatorPattern\obj\Debug\MediatorPattern.exe
 E:\DesignPattern\MediatorPattern\obj\Debug\MediatorPattern.pdb
+E:\git\DesignPattern\MediatorPattern\bin\Debug\MediatorPattern.exe.config
+E:\git\DesignPattern\MediatorPattern\bin\Debug\MediatorPattern.exe
+E:\git\DesignPattern\MediatorPattern\bin\Debug\MediatorPattern.pdb
+E:\git\DesignPattern\MediatorPattern\obj\Debug\MediatorPattern.exe
+E:\git\DesignPattern\MediatorPattern\obj\Debug\MediatorPattern.pdb

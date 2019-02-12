@@ -9,14 +9,14 @@ namespace PureMVC.Patterns.Proxy
     public class Proxy : Notifier, IProxy
     {
         /// <summary>
-        /// 代理静态名字
+        /// 代理静态索引
         /// </summary>
         public static string NAME = "Proxy";
 
         /// <summary>
         /// 构造函数
         /// </summary>
-        /// <param name="proxyName">代理名字</param>
+        /// <param name="proxyName">代理索引</param>
         /// <param name="data">代理数据</param>
         public Proxy(string proxyName, object data = null)
         {
@@ -39,7 +39,7 @@ namespace PureMVC.Patterns.Proxy
         }
 
         /// <summary>
-        /// 代理名字
+        /// 代理索引
         /// </summary>
         public string ProxyName { get; protected set; }
 

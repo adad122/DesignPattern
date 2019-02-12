@@ -3,3 +3,8 @@ E:\DesignPattern\InterpreterPattern\bin\Debug\InterpreterPattern.exe
 E:\DesignPattern\InterpreterPattern\bin\Debug\InterpreterPattern.pdb
 E:\DesignPattern\InterpreterPattern\obj\Debug\InterpreterPattern.exe
 E:\DesignPattern\InterpreterPattern\obj\Debug\InterpreterPattern.pdb
+E:\git\DesignPattern\InterpreterPattern\bin\Debug\InterpreterPattern.exe.config
+E:\git\DesignPattern\InterpreterPattern\bin\Debug\InterpreterPattern.exe
+E:\git\DesignPattern\InterpreterPattern\bin\Debug\InterpreterPattern.pdb
+E:\git\DesignPattern\InterpreterPattern\obj\Debug\InterpreterPattern.exe
+E:\git\DesignPattern\InterpreterPattern\obj\Debug\InterpreterPattern.pdb

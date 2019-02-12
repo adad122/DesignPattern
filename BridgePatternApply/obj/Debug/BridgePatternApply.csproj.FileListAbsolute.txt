@@ -4,3 +4,9 @@ E:\DesignPattern\BridgePatternApply\bin\Debug\BridgePatternApply.pdb
 E:\DesignPattern\BridgePatternApply\obj\Debug\BridgePatternApply.csprojResolveAssemblyReference.cache
 E:\DesignPattern\BridgePatternApply\obj\Debug\BridgePatternApply.exe
 E:\DesignPattern\BridgePatternApply\obj\Debug\BridgePatternApply.pdb
+E:\git\DesignPattern\BridgePatternApply\bin\Debug\BridgePatternApply.exe.config
+E:\git\DesignPattern\BridgePatternApply\bin\Debug\BridgePatternApply.exe
+E:\git\DesignPattern\BridgePatternApply\bin\Debug\BridgePatternApply.pdb
+E:\git\DesignPattern\BridgePatternApply\obj\Debug\BridgePatternApply.csprojResolveAssemblyReference.cache
+E:\git\DesignPattern\BridgePatternApply\obj\Debug\BridgePatternApply.exe
+E:\git\DesignPattern\BridgePatternApply\obj\Debug\BridgePatternApply.pdb

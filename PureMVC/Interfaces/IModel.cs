@@ -1,7 +1,7 @@
 ﻿namespace PureMVC.Interfaces
 {
     /// <summary>
-    /// Controller对象接口，用于关联和管理Command和Notification
+    /// Model对象接口，用于关联和管理Proxy
     /// </summary>
     public interface IModel
     {

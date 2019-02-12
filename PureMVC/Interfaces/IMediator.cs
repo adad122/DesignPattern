@@ -6,7 +6,7 @@
     public interface IMediator : INotifier
     {
         /// <summary>
-        /// 中介者名字
+        /// 中介者索引
         /// </summary>
         string MediatorName { get; }
 

@@ -3,3 +3,8 @@ E:\DesignPattern\CompositePatternApply\bin\Debug\CompositePatternApply.exe
 E:\DesignPattern\CompositePatternApply\bin\Debug\CompositePatternApply.pdb
 E:\DesignPattern\CompositePatternApply\obj\Debug\CompositePatternApply.exe
 E:\DesignPattern\CompositePatternApply\obj\Debug\CompositePatternApply.pdb
+E:\git\DesignPattern\CompositePatternApply\bin\Debug\CompositePatternApply.exe.config
+E:\git\DesignPattern\CompositePatternApply\bin\Debug\CompositePatternApply.exe
+E:\git\DesignPattern\CompositePatternApply\bin\Debug\CompositePatternApply.pdb
+E:\git\DesignPattern\CompositePatternApply\obj\Debug\CompositePatternApply.exe
+E:\git\DesignPattern\CompositePatternApply\obj\Debug\CompositePatternApply.pdb

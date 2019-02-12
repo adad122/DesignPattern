@@ -4,3 +4,9 @@ E:\DesignPattern\IteratorPattern\bin\Debug\IteratorPattern.pdb
 E:\DesignPattern\IteratorPattern\obj\Debug\IteratorPattern.csprojResolveAssemblyReference.cache
 E:\DesignPattern\IteratorPattern\obj\Debug\IteratorPattern.exe
 E:\DesignPattern\IteratorPattern\obj\Debug\IteratorPattern.pdb
+E:\git\DesignPattern\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+E:\git\DesignPattern\IteratorPattern\bin\Debug\IteratorPattern.exe
+E:\git\DesignPattern\IteratorPattern\bin\Debug\IteratorPattern.pdb
+E:\git\DesignPattern\IteratorPattern\obj\Debug\IteratorPattern.csprojResolveAssemblyReference.cache
+E:\git\DesignPattern\IteratorPattern\obj\Debug\IteratorPattern.exe
+E:\git\DesignPattern\IteratorPattern\obj\Debug\IteratorPattern.pdb

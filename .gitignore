@@ -1,3 +1,6 @@
 obj/
 bin/
 Properties/
+*.exe
+*.pbd
+*.txt

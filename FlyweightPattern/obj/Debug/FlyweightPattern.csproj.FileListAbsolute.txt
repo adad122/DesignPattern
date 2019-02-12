@@ -4,3 +4,9 @@ E:\DesignPattern\FlyweightPattern\bin\Debug\FlyweightPattern.pdb
 E:\DesignPattern\FlyweightPattern\obj\Debug\FlyweightPattern.csprojResolveAssemblyReference.cache
 E:\DesignPattern\FlyweightPattern\obj\Debug\FlyweightPattern.exe
 E:\DesignPattern\FlyweightPattern\obj\Debug\FlyweightPattern.pdb
+E:\git\DesignPattern\FlyweightPattern\bin\Debug\FlyweightPattern.exe.config
+E:\git\DesignPattern\FlyweightPattern\bin\Debug\FlyweightPattern.exe
+E:\git\DesignPattern\FlyweightPattern\bin\Debug\FlyweightPattern.pdb
+E:\git\DesignPattern\FlyweightPattern\obj\Debug\FlyweightPattern.csprojResolveAssemblyReference.cache
+E:\git\DesignPattern\FlyweightPattern\obj\Debug\FlyweightPattern.exe
+E:\git\DesignPattern\FlyweightPattern\obj\Debug\FlyweightPattern.pdb

@@ -9,14 +9,14 @@ namespace PureMVC.Patterns.Mediator
     public class Mediator : Notifier, IMediator
     {
         /// <summary>
-        /// 中介者静态名称
+        /// 中介者静态索引
         /// </summary>
         public static string NAME = "Mediator";
 
         /// <summary>
         /// 构造函数
         /// </summary>
-        /// <param name="mediatorName">中介者名字</param>
+        /// <param name="mediatorName">中介者索引</param>
         /// <param name="viewComponent">中介者管理的UI对象引用</param>
         public Mediator(string mediatorName, object viewComponent = null)
         {
@@ -56,7 +56,7 @@ namespace PureMVC.Patterns.Mediator
         }
 
         /// <summary>
-        /// 中介者名字
+        /// 中介者索引
         /// </summary>
         public string MediatorName { get; protected set; }
 
