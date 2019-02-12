@@ -1,6 +1,4 @@
-obj/
-bin/
-Properties/
-*.exe
-*.pbd
-*.txt
+obj
+bin
+Properties
+Debug
