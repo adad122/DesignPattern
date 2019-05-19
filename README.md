@@ -33,22 +33,27 @@ Design Pattern
   这些设计模式提供了一种在创建对象的同时隐藏创建逻辑的方式，而不是使用 new 运算符直接实例化对象。这使得程序在判断针对某个给定实例需要创建哪些对象时更加灵活。
 
   工厂模式（Factory Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/FactoryPattern
   https://github.com/adad122/DesignPattern/tree/master/FactoryPatternApply
   
   抽象工厂模式（Abstract Factory Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/AbstractFactoryPattern
   https://github.com/adad122/DesignPattern/tree/master/AbstractFactoryPatternApply
   
   单例模式（Singleton Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/SingletonPattern
   https://github.com/adad122/DesignPattern/tree/master/SingletonPatternApply
   
   建造者模式（Builder Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/BuilderPattern
   https://github.com/adad122/DesignPattern/tree/master/BuilderPatternApply
   
   原型模式（Prototype Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/PrototypePattern
   https://github.com/adad122/DesignPattern/tree/master/PrototypePatternApply
   
@@ -56,35 +61,43 @@ Design Pattern
   这些设计模式关注类和对象的组合。继承的概念被用来组合接口和定义组合对象获得新功能的方式。
   
   适配器模式（Adapter Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/AdapterPattern
   
   桥接模式（Bridge Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/BridgePattern
   https://github.com/adad122/DesignPattern/tree/master/BridgePatternApply
   
   过滤器模式（Filter、Criteria Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/FilterPattern
   https://github.com/adad122/DesignPattern/tree/master/FilterPatternApply
   https://github.com/adad122/DesignPattern/tree/master/FilterPatternApply2
   
   组合模式（Composite Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/CompositePattern
   https://github.com/adad122/DesignPattern/tree/master/CompositePatternApply
   https://github.com/adad122/DesignPattern/tree/master/CompositePatternApply2
   
   装饰器模式（Decorator Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/DecoratorPattern
   https://github.com/adad122/DesignPattern/tree/master/DecoratorPatternApply
   
   外观模式（Facade Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/FacadePattern
   https://github.com/adad122/DesignPattern/tree/master/FacadePatternApply
   
   享元模式（Flyweight Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/FlyweightPattern
   https://github.com/adad122/DesignPattern/tree/master/FlyweightPatternApply
   
   代理模式（Proxy Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/ProxyPattern
   https://github.com/adad122/DesignPattern/tree/master/ProxyPatternApply
   
@@ -92,51 +105,64 @@ Design Pattern
   这些设计模式特别关注对象之间的通信。
   
   责任链模式（Chain of Responsibility Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/ChainofResponsibilityPattern
   https://github.com/adad122/DesignPattern/tree/master/ChainofResponsibilityPatternApply
   
   命令模式（Command Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/CommandPattern
   https://github.com/adad122/DesignPattern/tree/master/CommandPatternApply
   
   解释器模式（Interpreter Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/InterpreterPattern
   https://github.com/adad122/DesignPattern/tree/master/InterpreterPatternApply
   
   迭代器模式（Iterator Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/IteratorPattern
   https://github.com/adad122/DesignPattern/tree/master/IteratorPatternApply
   
   中介者模式（Mediator Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/MediatorPattern
   https://github.com/adad122/DesignPattern/tree/master/MediatorPatternApply
   
   备忘录模式（Memento Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/MementoPattern
   https://github.com/adad122/DesignPattern/tree/master/MementoPatternApply
   
   观察者模式（Observer Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/ObserverPattern
   https://github.com/adad122/DesignPattern/tree/master/ObserverPatternApply
   
   状态模式（State Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/StatePattern
   
   空对象模式（Null Object Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/NullObjectPattern
   https://github.com/adad122/DesignPattern/tree/master/NullObjectPatternApply
   
   策略模式（Strategy Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/StrategyPattern
   
   模板模式（Template Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/TemplatePattern
   
   访问者模式（Visitor Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/VisitorPattern
   
 J2EE 模式：
   这些设计模式特别关注表示层。这些模式是由 Sun Java Center 鉴定的。
   MVC 模式（MVC Pattern）
+  
   https://github.com/adad122/DesignPattern/tree/master/MVC
   https://github.com/adad122/DesignPattern/tree/master/PureMVC
